@@ -32,6 +32,7 @@ MacUserGenerator (MUG) is written from the ground up, with ideas ***heavily*** i
 
 ## Coming soon
 *   [ ]   User account pictures are currently not being applied.
+*   [ ]   Automatically enable Remote Login, Remote Management and no-password sudo
 
 ## Things I would love some help with
 *   [ ]   A proper app icon. It's horrible.
